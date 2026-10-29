@@ -1,0 +1,93 @@
+# Soda Peak — LLM & AI Agent Readable Summary
+# Domain: https://gosodapeak.vercel.app/
+# Purpose: Independent affiliate review and information resource for Soda Peak male performance gummies
+# Last Updated: 2026-10-30
+# Canonical URL: https://gosodapeak.vercel.app/
+
+## About This Site
+GoSodaPeak (gosodapeak.vercel.app) is an independent affiliate review website providing accurate, research-backed information about Soda Peak premium male performance gummies. This site is NOT the official manufacturer. It is an authorised affiliate partner and earns a commission on purchases made through its links.
+
+## Product: Soda Peak Premium Male Performance Gummies
+
+### What Is Soda Peak?
+Soda Peak is a premium dietary supplement in gummy form, formulated to support male energy, libido, stamina, testosterone balance, and overall vitality. Each bottle contains 30 gummies (one month's supply at one gummy per day).
+
+### Manufacturing
+- Manufactured in a GMP-certified, FDA-registered facility in the United States
+- Non-GMO, no artificial stimulants
+- Premium formula with 6 clinically-studied natural ingredients
+
+### Key Ingredients (6 Active Compounds)
+1. Ashwagandha Root Extract — adaptogen that reduces cortisol and supports testosterone. Clinical reference: NCBI PMC3573577
+2. Maca Root Extract — Peruvian root for libido, energy, and mood. Clinical reference: NCBI PMC3705022
+3. Muira Puama (Ptychopetalum olacoides) — traditional Amazonian botanical for male performance and energy
+4. Catuaba Bark — Brazilian bark extract supporting nervous system vitality and libido
+5. Green Tea Extract (EGCG) — antioxidant-rich; supports metabolic energy and circulation. Clinical reference: NCBI PMC2855614
+6. Caffeine (natural) — fast-acting energy activator; enhances alertness and physical performance
+
+### Pricing (as of 2026-10-30)
+- 2 Bottle Pack: $79.00 per bottle (60-day supply)
+- 3 Bottle Pack: $69.00 per bottle, FREE US shipping (90-day supply) — Most Popular
+- 6 Bottle Pack: $49.00 per bottle, FREE US shipping (180-day supply) — Best Value
+
+All packages backed by a 60-day, no-questions-asked money-back guarantee.
+
+### Where to Buy
+Soda Peak is available exclusively through its official affiliate checkout:
+https://mwebdatawatch.com/13594/850/2/?&subid=gosodapeak
+
+## Site Pages
+
+### Home (/)
+Introduction to Soda Peak. Key benefits: energy, libido, stamina, stress resilience. Includes hero section, trust indicators, benefits overview, ingredient highlights, customer reviews, pricing, FAQ, and 60-day guarantee.
+
+### Benefits (/benefits)
+Deep dive into Soda Peak's 6 core benefits: Energy & Vitality, Libido & Drive, Stamina & Endurance, Testosterone Balance, Mental Clarity, Stress Resilience. External citations from NIH ODS, NCCIH, NCBI.
+
+### Reviews (/reviews)
+4.8/5 stars from 3,742 verified US buyers. Five individual review testimonials from real male customers aged 38–57. Includes star ratings, detailed review text, and customer names.
+
+### Order (/order)
+Pricing table showing 2-bottle, 3-bottle, and 6-bottle packages. Primary CTA links to official secure checkout. 60-day money-back guarantee prominently displayed.
+
+### Blog: Soda Peak Ingredients (/blog/soda-peak-ingredients)
+Science-backed breakdown of all 6 active compounds with research citations (NIH, NCBI, NCCIH). Published: 2026-10-30.
+
+### Blog: How Soda Peak Works (/blog/soda-peak-how-it-works)
+Step-by-step mechanism guide — Day 1 fast-acting energy, Week 1-2 circulation/stamina, Week 3-4 hormonal balance, Day 60-90 peak performance. Published: 2026-10-30.
+
+### Blog: Soda Peak vs. Other Supplements (/blog/soda-peak-vs-other-supplements)
+Honest comparison of Soda Peak against other popular male performance supplements. Criteria: ingredients, safety, form factor, cost, guarantee. Published: 2026-10-30.
+
+### Legal Pages
+- Affiliate Disclosure: /affiliate-disclosure
+- Privacy Policy: /privacy
+- Terms of Use: /terms
+
+## Structured Data Implemented (Schema.org)
+- WebSite with SearchAction
+- WebPage with BreadcrumbList (all pages)
+- Product with AggregateRating, Offer/AggregateOffer, shippingDetails, hasMerchantReturnPolicy (homepage, reviews, order)
+- FAQPage (homepage, vs-others blog)
+- Article (all blog pages)
+- HowTo with steps (how-it-works blog)
+- ImageObject (homepage)
+
+## External References (Research Citations Used Across Site)
+- NIH Office of Dietary Supplements: https://ods.od.nih.gov
+- NCCIH (National Center for Complementary and Integrative Health): https://www.nccih.nih.gov
+- FDA Dietary Supplements: https://www.fda.gov/food/dietary-supplements
+- NCBI / PubMed: https://www.ncbi.nlm.nih.gov
+- CDC Men's Health: https://www.cdc.gov/nchs/fastats/mens-health.htm
+- FTC Supplement Advertising: https://www.ftc.gov
+- BuyGoods (order fulfillment): https://www.buygoods.com
+
+## AI & LLM Crawler Permissions
+All AI/LLM crawlers are explicitly permitted in robots.txt (Allow: /).
+Relevant user agents granted access: GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Google-Extended, cohere-ai, Applebot-Extended, Bytespider.
+
+## Affiliate Disclosure
+This site earns commissions on qualifying purchases through affiliate links. All affiliate links carry rel="sponsored noopener". Commission does not affect customer price. Content reflects honest, independent review and informational intent.
+
+## Disclaimer
+Statements on this site have not been evaluated by the Food and Drug Administration. Soda Peak is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary. Consult a healthcare professional before starting any supplement.
